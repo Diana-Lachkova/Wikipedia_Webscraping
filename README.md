@@ -1,5 +1,5 @@
 # Wikipedia_Webscraping
-Webscraping of OSRS wikipedia page using Jupyter
+Webscraping of Old School RuneScape (OSRS) wikipedia page using Python.
 
 
 Information about the OSRS character known as 'Zulrah' was accessed on Wikipedia. 
